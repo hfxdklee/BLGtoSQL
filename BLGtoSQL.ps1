@@ -1,7 +1,7 @@
 <# 
     .SYNOPSIS 
     Perfmon BLG to SQL Server Importer - by David Klee and Bob Pusateri, Heraflux Technologies
-    http://www.heraflux.com
+    https://www.heraflux.com
     
     .DESCRIPTION
         The purpose of this script is to allow DBAs to collect Windows Perfmon data in the common format 
@@ -25,7 +25,7 @@
         ./BLGToSQL.ps1 -PerfmonDirectory "E:\PerfmonData" -ServerName="PRDSQL01" 
         
     .LINK
-    Fetch this script it its most updated from at:
+    Fetch this script at its most updated from at:
     https://github.com/heraflux/BLGtoSQL  
     
     .PARAMETER PerfmonDirectory
